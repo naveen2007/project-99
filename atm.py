@@ -11,5 +11,5 @@ class atm:
     def deposit(self, card_number):
             print("deposited 25")
 
-card = atm(231313, 12)
-print(card.withdrawal(231313))
+card = atm(10, 10)
+print(card.withdrawal(10))
